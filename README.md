@@ -16,7 +16,7 @@
   <p>
     👋 Hi there! I’m <strong>Ivan Requerme</strong> <img src="https://img.shields.io/badge/AKA-Rivan-ffffff00?style=flat&labelColor=1877F2" alt="AKA:Rivan" height="17" style="vertical-align: middle;" /> a <strong>3rd year Bachelor of Science in Information Technology</strong> student from the <strong>Philippines 🇵🇭</strong>!<br/>
   </p>
-
+ </div>
 ---
 
 ## 🌱 I’m currently learning  **Web Dev / Game Dev / Mobile Dev**
